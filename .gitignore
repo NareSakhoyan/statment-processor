@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+**/node_modules/
+
+# Ignore any compiled files or folders
+dist/
+build/
+
+# Ignore local development environment files
+.env.local
+
+# Ignore package-lock.json for npm
+package-lock.json
+
+# Ignore yarn.lock for Yarn
+yarn.lock
